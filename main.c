@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h> // srand, rand
 #include <time.h> // time
@@ -45,7 +46,6 @@ int quick_sort(int numeros[],int primeiro,int ultimo){
   return numeros[1000];
 }
 
-//função mediana
 void mediana(int v[]){
 	int T = 1000; //alterar o valor de 10 para 1000
 	int mediana;
@@ -65,6 +65,14 @@ void media(int v[]){
 
   media = cont/1000;
   printf ("\nMedia: %.1f",media);
+  
+}
+
+//função maior e menor
+void maior_menor(int v[]){
+
+  printf("\nO menor numero é o: %i",v[0]);
+  printf("\ne o maior é: %i",v[999]);
   
 }
 
