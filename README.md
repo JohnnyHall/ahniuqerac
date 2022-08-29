@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/906629344921784322/1011638343517339728/WIN_20220823_11_08_15_Pro.jpg" height='300'/>
+  <img src="https://i.imgur.com/2bTmLlr.png" height='300'/>
 </p>
 
 # 🦲 ahniuqerac
