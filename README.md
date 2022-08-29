@@ -33,15 +33,7 @@
        ↳ All these functions print their results to the screen directly.
 
 ## 📜 Requirements
-1. [Requiremednt]
-2. [Requiremednt]
-
-## ⚙️ Installation
-
-```
-
-
-```
+1. GCC 9.5 or newer
   
 ## 🌎 Locales
 Currently available locales are:
